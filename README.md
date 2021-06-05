@@ -3,7 +3,7 @@
 
 教程：https://www.blueskyxn.com/202106/4629.html
 
-# Docker 成品包
+# Docker HUB
 https://hub.docker.com/repository/docker/blueskyxn/dual-stack-warp
 
 ## 公网库地址
