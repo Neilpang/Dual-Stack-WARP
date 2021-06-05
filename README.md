@@ -29,7 +29,11 @@ docker run --restart=always -itd --name warp-docker --sysctl net.ipv6.conf.all.d
 
 docker exec -it warp-docker /bin/bash
 
+启动WGCF
+wg-quick up wg0
+
 运行程序
+
 nohup /usr/local/bin/v2ray -config /usr/local/etc/v2ray/config.json &
 
 然后自己修改配置/反代等操作自己玩吧
