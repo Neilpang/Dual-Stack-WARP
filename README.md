@@ -5,4 +5,11 @@
 https://hub.docker.com/repository/docker/blueskyxn/dual-stack-warp
 
 ## 公网库地址
-https://hub.docker.com/layers/152788183/blueskyxn/dual-stack-warp/1.0/images/sha256-053e5d36b33e33cba2d78ab18a8c4b4358bb5b3dfeb7bdb0eb40b6ffb140109a?context=explore&tab=layers
+
+blueskyxn/dual-stack-warp:1.0
+
+也可以用命令
+
+docker pull docker.io/blueskyxn/dual-stack-warp:1.0
+
+这样就能GET镜像了
