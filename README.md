@@ -3,6 +3,8 @@
 
 教程：https://www.blueskyxn.com/202106/4629.html
 
+仅供学习docker和wg的使用方法，请在24小时内删除且不用于违法行为，否则后果自负
+
 # Docker HUB
 https://hub.docker.com/repository/docker/blueskyxn/dual-stack-warp
 
