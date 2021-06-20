@@ -30,6 +30,7 @@ docker run --restart=always -itd --name warp-docker --sysctl net.ipv6.conf.all.d
 docker exec -it warp-docker /bin/bash
 
 启动WGCF
+
 wg-quick up wg0
 
 运行程序
